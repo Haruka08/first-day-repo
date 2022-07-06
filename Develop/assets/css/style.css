@@ -1,13 +1,27 @@
+/* margin size to be adjusted within height/width limit stated */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* background colour of the website */
 body {
     background-color: #d9dcd6;
 }
 
+/* settings for all <a> element */
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+/* settings for all <p> element */
+p {
+    font-size: 16px;
+}
+
+/* location/formatting for <header> element */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,16 +29,19 @@ body {
     color: #ffffff;
 }
 
+/* location/format for text in <h1> within header element */
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
-.header h1 .seo {
+/* format for id=seo */
+#seo {
     color: #d9dcd6;
 }
 
-.header div {
+/* location/format of text in <menu> within header element */
+.header menu {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -32,24 +49,14 @@ body {
     font-size: 20px;
 }
 
-.header div ul {
+/* Placement of the list within <header> element */
+.header menu li {
+    display: inline-block;
+    margin-left: 25px;
     list-style-type: none;
 }
 
-.header div ul li {
-    display: inline-block;
-    margin-left: 25px;
-}
-
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-p {
-    font-size: 16px;
-}
-
+/* background <figure> image */
 .hero {
     height: 800px;
     width: 100%;
@@ -59,22 +66,48 @@ p {
     background-position: center;
 }
 
+/* to indicate where the images are placed and the margin around images */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/* to indicate where the images are placed and the margin around images */
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
-.content {
+/* area size of the main content */
+.contents {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
+    color: #ffffff;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
+/* location/format of text within the main content */
+.content {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px; 
+    width: 100%;
+    background-color: #0072bb;
+}
+
+/* location/format of <h2> text within the main content */
+.content h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+/* display size of images within the main content */
+.content img {
+    max-height: 200px;
+}
+
+/* area size, location, format of the side content */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -84,110 +117,28 @@ p {
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
-}
-
-.benefit-lead {
-    margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-brand {
+/* margin size of text within the side content */
+.benefit {
     margin-bottom: 32px;
-    color: #ffffff;
 }
 
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-lead h3 {
+/* margin size &  of text within the side content */
+.benefit h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-lead img {
+/* display setup for images within the side content */
+.benefit img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.search-engine-optimization {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.search-engine-optimization img {
-    max-height: 200px;
-}
-
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
-    max-height: 200px;
-}
-
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
+/* settings for the placement and formatting of text in footer */
 .footer {
     padding: 30px;
     clear: both;
@@ -195,6 +146,7 @@ p {
     text-align: center;
 }
 
+/* setting for <h2> in footer */
 .footer h2 {
     font-size: 20px;
 }
