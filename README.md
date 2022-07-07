@@ -65,4 +65,4 @@ To access the GitHub repository use [GitHub Repository](https://github.com/Haruk
 
 ![Brand Awareness image](https://github.com/Haruka08/first-day-repo/blob/9287fd3aa74b3bef836d083ce2c7526fc868e3e9/Images/brand-awareness.png)
 
-![Cost Management image](../Images/cost-management.png)
+![Cost Management image](./Images/cost-management.png)
