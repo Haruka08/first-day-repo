@@ -44,7 +44,7 @@ To access the GitHub repository use [GitHub Repository](https://github.com/Haruk
 
 ## screenshot of the modified website
 
-! [The screenshot of the completed website](https://github.com/Haruka08/first-day-repo/blob/9287fd3aa74b3bef836d083ce2c7526fc868e3e9/Images/screenshot1.jpg)
+![The screenshot of the completed website](https://github.com/Haruka08/first-day-repo/blob/9287fd3aa74b3bef836d083ce2c7526fc868e3e9/Images/screenshot1.jpg)
 
 ## Background Image
 
