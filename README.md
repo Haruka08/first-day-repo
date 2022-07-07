@@ -44,25 +44,25 @@ To access the GitHub repository use [GitHub Repository](https://github.com/Haruk
 
 ## screenshot of the modified website
 
-![The screenshot of the completed website](https://github.com/Haruka08/first-day-repo/blob/9287fd3aa74b3bef836d083ce2c7526fc868e3e9/Images/screenshot1.jpg)
+![The screenshot of the completed website](./Images/screenshot1.jpg)
 
 ## Background Image
 
-![The website has background image](https://github.com/Haruka08/first-day-repo/blob/9287fd3aa74b3bef836d083ce2c7526fc868e3e9/Images/digital-marketing-meeting.jpg)
+![The website has background image](./Images/digital-marketing-meeting.jpg)
 
 
 ## Images for the main section
 
-![Search Engine Optimization image](https://github.com/Haruka08/first-day-repo/blob/9287fd3aa74b3bef836d083ce2c7526fc868e3e9/Images/search-engine-optimization.jpg)
+![Search Engine Optimization image](./Images/search-engine-optimization.jpg)
 
-![Online Reputation Management image](https://github.com/Haruka08/first-day-repo/blob/9287fd3aa74b3bef836d083ce2c7526fc868e3e9/Images/online-reputation-management.jpg)
+![Online Reputation Management image](./Images/online-reputation-management.jpg)
 
-![Social Media Marketing image](https://github.com/Haruka08/first-day-repo/blob/9287fd3aa74b3bef836d083ce2c7526fc868e3e9/Images/social-media-marketing.jpg)
+![Social Media Marketing image](./Images/social-media-marketing.jpg)
 
 ## Images for the side section
 
-![Lead Geneation image](https://github.com/Haruka08/first-day-repo/blob/9287fd3aa74b3bef836d083ce2c7526fc868e3e9/Images/lead-generation.png)
+![Lead Geneation image](./Images/lead-generation.png)
 
-![Brand Awareness image](https://github.com/Haruka08/first-day-repo/blob/9287fd3aa74b3bef836d083ce2c7526fc868e3e9/Images/brand-awareness.png)
+![Brand Awareness image](./Images/brand-awareness.png)
 
 ![Cost Management image](./Images/cost-management.png)
