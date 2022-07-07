@@ -29,11 +29,11 @@
 
 Following list of menues located at the top left hand side are hyperlinks and it will navigate to the corresponding sections within the main content of the page.
 
-- [Search Engine Optimization image](https://haruka08.github.io/first-day-repo/#search-engine-optimization)
+- [Search Engine Optimization](https://haruka08.github.io/first-day-repo/#search-engine-optimization)
 
-- [Online Reputation Management image](https://haruka08.github.io/first-day-repo/#online-reputation-management)
+- [Online Reputation Management](https://haruka08.github.io/first-day-repo/#online-reputation-management)
 
-- [Social Media Marketing image](https://haruka08.github.io/first-day-repo/#social-media-marketing)
+- [Social Media Marketing](https://haruka08.github.io/first-day-repo/#social-media-marketing)
 
 
 ## Links to the webpage and repository
@@ -44,25 +44,25 @@ To access the GitHub repository use [GitHub Repository](https://github.com/Haruk
 
 ## screenshot of the modified website
 
-! [The screenshot of the completed website](https://github.com/Haruka08/first-day-repo/images/screenshot1.jpg.git)
+! [The screenshot of the completed website](https://github.com/Haruka08/first-day-repo/blob/9287fd3aa74b3bef836d083ce2c7526fc868e3e9/Images/screenshot1.jpg)
 
 ## Background Image
 
-![The website has background image](https://github.com/Haruka08/first-day-repo/images/digital-marketing-meeting.jpg.git)
+![The website has background image](https://github.com/Haruka08/first-day-repo/blob/9287fd3aa74b3bef836d083ce2c7526fc868e3e9/Images/digital-marketing-meeting.jpg)
 
 
 ## Images for the main section
 
-![Search Engine Optimization image](https://github.com/Haruka08/first-day-repo/images/search-engine-optimization.jpg.git)
+![Search Engine Optimization image](https://github.com/Haruka08/first-day-repo/blob/9287fd3aa74b3bef836d083ce2c7526fc868e3e9/Images/search-engine-optimization.jpg)
 
-![Online Reputation Management image](https://github.com/Haruka08/first-day-repo/images/online-reputation-management.jpg.git)
+![Online Reputation Management image](https://github.com/Haruka08/first-day-repo/blob/9287fd3aa74b3bef836d083ce2c7526fc868e3e9/Images/online-reputation-management.jpg)
 
-![Social Media Marketing image](https://github.com/Haruka08/first-day-repo/images/social-media-marketing.jpg.git)
+![Social Media Marketing image](https://github.com/Haruka08/first-day-repo/blob/9287fd3aa74b3bef836d083ce2c7526fc868e3e9/Images/social-media-marketing.jpg)
 
 ## Images for the side section
 
-![Lead Geneation image](https://github.com/Haruka08/first-day-repo/images/lead-generation.png.git)
+![Lead Geneation image](https://github.com/Haruka08/first-day-repo/blob/9287fd3aa74b3bef836d083ce2c7526fc868e3e9/Images/lead-generation.png)
 
-![Brand Awareness image](https://github.com/Haruka08/first-day-repo/images/brand-awareness.png.git)
+![Brand Awareness image](https://github.com/Haruka08/first-day-repo/blob/9287fd3aa74b3bef836d083ce2c7526fc868e3e9/Images/brand-awareness.png)
 
-![Cost Management image](https://github.com/Haruka08/first-day-repo/images/cost-management.pnggit)
+![Cost Management image](https://github.com/Haruka08/first-day-repo/blob/9287fd3aa74b3bef836d083ce2c7526fc868e3e9/Images/cost-management.png)
